@@ -1,4 +1,4 @@
-package listaExercicios.dois;
+package academy.devdojo.listaexercicios.dois;
 
 /* 
  * Desenvolva uma rotina que calcule o salário líquido de um funcionário. 

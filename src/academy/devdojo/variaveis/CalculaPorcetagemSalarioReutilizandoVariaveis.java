@@ -1,4 +1,4 @@
-package iniciacao.exercicios;
+package academy.devdojo.variaveis;
 
 /*
  * Crie uma variável que irá guardar o valor de um salário

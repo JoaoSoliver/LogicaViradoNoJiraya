@@ -1,4 +1,4 @@
-package iniciacao.exercicios;
+package academy.devdojo.variaveis;
 
 import java.util.Scanner;
 

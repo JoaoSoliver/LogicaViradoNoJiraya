@@ -1,4 +1,4 @@
-package iniciacao.exercicios;
+package academy.devdojo.estruturascondicionais;
 
 /* Como secretário de alistamento militar gostaria que o sistema aceitasse os seguintes parâmetros
  * para agilizar o processo de cadastramento:

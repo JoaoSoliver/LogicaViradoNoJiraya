@@ -1,4 +1,4 @@
-package iniciacao;
+package academy.devdojo.variaveis;
 
 public class ViradoNoJiraya {
 	

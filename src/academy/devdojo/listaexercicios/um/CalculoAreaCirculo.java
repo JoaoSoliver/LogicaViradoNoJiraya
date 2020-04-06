@@ -1,4 +1,4 @@
-package listaExercicios.um;
+package academy.devdojo.listaexercicios.um;
 
 // escreva um programa que calcule e apresente a área de um círculo.
 

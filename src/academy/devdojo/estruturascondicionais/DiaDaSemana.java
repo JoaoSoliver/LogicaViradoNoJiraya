@@ -1,4 +1,4 @@
-package iniciacao.exercicios;
+package academy.devdojo.estruturascondicionais;
 
 // Receba um número inteiro e imprima o dia da semana correspondente, sendo 1 segunda - feira.
 

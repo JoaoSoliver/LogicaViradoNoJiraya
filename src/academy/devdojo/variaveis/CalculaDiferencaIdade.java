@@ -1,4 +1,4 @@
-package iniciacao.exercicios;
+package academy.devdojo.variaveis;
 /*
  * Crie uma variável para armazenar a 1° idade
  * Crie uma variável para armazenar a 2° idade

@@ -1,4 +1,4 @@
-package iniciacao.exercicios;
+package academy.devdojo.estruturascondicionais;
 
 /* 
  * Dado um determinado salário,
