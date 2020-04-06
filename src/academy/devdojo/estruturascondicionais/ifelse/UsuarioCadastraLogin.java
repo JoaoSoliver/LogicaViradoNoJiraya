@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondicionais;
+package academy.devdojo.estruturascondicionais.ifelse;
 
 /* Eu, como administrador do sistema, gostaria de permitir que os próprios usuários cadastrassem 
  * o nome de usuário (login) no sistema para agilizar o processo de migração do sistema antigo para o novo.

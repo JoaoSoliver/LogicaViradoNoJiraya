@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondicionais;
+package academy.devdojo.estruturascondicionais.ifelse;
 
 // Receba um número inteiro e imprima o dia da semana correspondente, sendo 1 segunda - feira.
 

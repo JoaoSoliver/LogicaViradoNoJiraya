@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondicionais;
+package academy.devdojo.estruturascondicionais.ifelse;
 
 /* Como secretário de alistamento militar gostaria que o sistema aceitasse os seguintes parâmetros
  * para agilizar o processo de cadastramento:
