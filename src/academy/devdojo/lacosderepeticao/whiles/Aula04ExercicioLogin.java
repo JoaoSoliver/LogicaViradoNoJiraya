@@ -13,20 +13,20 @@ public class Aula04ExercicioLogin {
 
 	public static void main(String[] args) {
 
-		String usuario = "AAA";
+		final String usuario = "AAA";
 		String usuarioEntrada;
-		String senha = "123123";
+		final String senha = "123123";
 		String senhaEntrada;
 		boolean acesso = false;
 
 		Scanner sc = new Scanner(System.in);
-		
+
 		while(acesso == false) {
 			System.out.println("DIGITE O USUÁRIO ");
 			usuarioEntrada = sc.nextLine();
 			System.out.println("DIGITE A SENHA ");
 			senhaEntrada = sc.nextLine();
-			
+
 			if (usuarioEntrada.equalsIgnoreCase(usuario) && senhaEntrada.equalsIgnoreCase(senha)) {
 				System.out.println("ACESSO CONCEDIDO");
 				acesso = true;				
@@ -35,14 +35,6 @@ public class Aula04ExercicioLogin {
 			}
 		}
 		System.out.println("Dentro do sistema...");		
+		sc.close();
 	}
-
 }
-
-
-
-
-
-
-
-

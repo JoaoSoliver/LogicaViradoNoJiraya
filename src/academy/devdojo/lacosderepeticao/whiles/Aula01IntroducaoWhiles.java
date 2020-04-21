@@ -1,6 +1,6 @@
 package academy.devdojo.lacosderepeticao.whiles;
 
-public class Aula01Introducao {
+public class Aula01IntroducaoWhiles {
 
 	public static void main(String[] args) {
 		

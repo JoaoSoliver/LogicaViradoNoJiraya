@@ -1,8 +1,8 @@
-package academy.devdojo.listaexercicios.um;
+package academy.devdojo.listaexercicios.iniciacao;
 
 // escreva um programa que calcule e apresente a área de um círculo.
 
-public class CalculoAreaCirculo {
+public class Exercicio01CalculoAreaCirculo {
 	public static void main(String[] args) {
 		
 		double pi = 3.1415;

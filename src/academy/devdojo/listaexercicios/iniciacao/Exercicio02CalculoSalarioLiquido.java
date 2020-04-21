@@ -1,4 +1,4 @@
-package academy.devdojo.listaexercicios.dois;
+package academy.devdojo.listaexercicios.iniciacao;
 
 /* 
  * Desenvolva uma rotina que calcule o salário líquido de um funcionário. 
@@ -15,7 +15,7 @@ package academy.devdojo.listaexercicios.dois;
  * SL = Salário Líquido
  */
 
-public class CalculoSalarioLiquido {
+public class Exercicio02CalculoSalarioLiquido {
 
 	public static void main(String[] args) {
 		double salarioBase;
