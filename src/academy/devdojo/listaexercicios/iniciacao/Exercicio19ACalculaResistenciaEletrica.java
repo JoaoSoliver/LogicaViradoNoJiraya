@@ -16,14 +16,10 @@ public class Exercicio19ACalculaResistenciaEletrica {
 	private double tensaoVolts;
 	private double resistenciaOhms;
 	
-	public Exercicio19ACalculaResistenciaEletrica() {
-		
-	}
-	
 	public double calcularResistenciaEletrica(double correnteAmperes, double tensaoVolts) {
 		this.correnteAmperes = correnteAmperes;
 		this.tensaoVolts = tensaoVolts;
-		this.resistenciaOhms = correnteAmperes / tensaoVolts;
+		this.resistenciaOhms = this.correnteAmperes / this.tensaoVolts;
 		return resistenciaOhms;
 	}
 	
